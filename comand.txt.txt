@@ -1,0 +1,6 @@
+1 = git config --global user.name " write username "
+2 = git config --global user.mail " write email "
+3 = git clone "clonepath"
+4 = git status
+5 = git add .
+
